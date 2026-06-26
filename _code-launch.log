@@ -1,0 +1,46 @@
+=== relanzando con icono en barra de titulo ===
+(node:23860) [DEP0190] DeprecationWarning: Passing args to a child process with shell option true can lead to security vulnerabilities, as the arguments are not escaped, only concatenated.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+npm warn Unknown project config "disturl". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+npm warn Unknown project config "target". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+npm warn Unknown project config "ms_build_id". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+npm warn Unknown project config "runtime". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+npm warn Unknown project config "build_from_source". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+npm warn Unknown project config "timeout". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+
+> code-oss-dev@1.127.0 electron
+> node build/lib/electron.ts
+
+
+
+(node:25244) [DEP0180] DeprecationWarning: fs.Stats constructor is deprecated.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[[90m17:10:59[39m] Synchronizing built-in extensions...
+[[90m17:10:59[39m] You can manage built-in extensions with the [36m--builtin[39m flag
+[[90m17:10:59[39m] [34m[github][39m ms-vscode.js-debug-companion@1.1.3 [32m✔︎[39m
+[[90m17:10:59[39m] [34m[github][39m ms-vscode.js-debug@1.117.0 [32m✔︎[39m
+[[90m17:10:59[39m] [34m[github][39m ms-vscode.vscode-js-profile-table@1.0.10 [32m✔︎[39m
+
+[main 2026-06-23T23:11:00.712Z] StorageMainService: creating application shared storage
+[main 2026-06-23T23:11:00.809Z] [CSS_DEV] DONE, 384 css modules (84ms)
+[main 2026-06-23T23:11:00.904Z] update#setState disabled
+[main 2026-06-23T23:11:00.915Z] [shared storage] Creating shared storage database at 'c:\Users\tcbor\.vscode-oss-shared\sharedStorage\state.vscdb' (wasCreated: false)
+[main 2026-06-23T23:11:00.916Z] [shared storage] Initializing fallback application storage (path: c:\Users\tcbor\AppData\Roaming\code-oss-dev\User\globalStorage\state.vscdb)
+[main 2026-06-23T23:11:00.927Z] [shared storage] Fallback application storage initialized with 55 items
+[28080:0623/171103.776:INFO:CONSOLE:297] "%c[Extension Host] %cdebugger listening on port 5870 color: blue color:", source: vscode-file://vscode-app/x:/DOWNLOADS/Ethernal-Code/out/vs/workbench/services/extensions/electron-browser/localProcessExtensionHost.js (297)
+[28080:0623/171103.815:INFO:CONSOLE:99] "%c INFO color: #33f Started local extension host with pid 34912.", source: vscode-file://vscode-app/x:/DOWNLOADS/Ethernal-Code/out/vs/platform/log/common/log.js (99)
+[28080:0623/171104.079:INFO:CONSOLE:226] "%c[Extension Host] %cdebugger inspector at devtools://devtools/bundled/js_app.html?v8only=true&ws=127.0.0.1:5870/381de551-886e-4e89-8eb9-0184ad6b30bd color: blue color:", source: vscode-file://vscode-app/x:/DOWNLOADS/Ethernal-Code/out/vs/workbench/services/extensions/electron-browser/localProcessExtensionHost.js (226)
+[28080:0623/171104.310:INFO:CONSOLE:99] "%c INFO color: #33f [AgentHost:renderer] Acquiring MessagePort to agent host...", source: vscode-file://vscode-app/x:/DOWNLOADS/Ethernal-Code/out/vs/platform/log/common/log.js (99)
+[main 2026-06-23T23:11:04.313Z] AgentHostProcessManager: agent host started
+[28080:0623/171104.316:INFO:CONSOLE:99] "%c INFO color: #33f [AgentHost:renderer] MessagePort acquired, creating client...", source: vscode-file://vscode-app/x:/DOWNLOADS/Ethernal-Code/out/vs/platform/log/common/log.js (99)
+[28080:0623/171104.323:INFO:CONSOLE:99] "%c INFO color: #33f [AgentHost:renderer] Direct MessagePort connection established", source: vscode-file://vscode-app/x:/DOWNLOADS/Ethernal-Code/out/vs/platform/log/common/log.js (99)
+[28080:0623/171104.372:INFO:CONSOLE:99] "%c INFO color: #33f [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false", source: vscode-file://vscode-app/x:/DOWNLOADS/Ethernal-Code/out/vs/platform/log/common/log.js (99)
+[28080:0623/171105.576:INFO:CONSOLE:99] "%c INFO color: #33f [AgentHost] No token resolved for resource: https://api.github.com", source: vscode-file://vscode-app/x:/DOWNLOADS/Ethernal-Code/out/vs/platform/log/common/log.js (99)
+[28080:0623/171105.576:INFO:CONSOLE:99] "%c INFO color: #33f [AgentHost] No token resolved for resource: https://api.github.com", source: vscode-file://vscode-app/x:/DOWNLOADS/Ethernal-Code/out/vs/platform/log/common/log.js (99)
+[28080:0623/171105.730:INFO:CONSOLE:99] "%c INFO color: #33f [AgentHost] No token resolved for resource: https://api.github.com/repos", source: vscode-file://vscode-app/x:/DOWNLOADS/Ethernal-Code/out/vs/platform/log/common/log.js (99)
+[28080:0623/171105.730:INFO:CONSOLE:99] "%c INFO color: #33f [AgentHost] No token resolved for resource: https://api.github.com/repos", source: vscode-file://vscode-app/x:/DOWNLOADS/Ethernal-Code/out/vs/platform/log/common/log.js (99)
+[28080:0623/171109.385:INFO:CONSOLE:99] "%c INFO color: #33f [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false", source: vscode-file://vscode-app/x:/DOWNLOADS/Ethernal-Code/out/vs/platform/log/common/log.js (99)
+[main 2026-06-23T23:11:37.851Z] Extension host with pid 34912 exited with code: 0, signal: unknown.
+[28080:0623/171137.884:INFO:CONSOLE:99] "%c WARN color: #993 Attempted to report in-progress status for unknown chat session type 'local'", source: vscode-file://vscode-app/x:/DOWNLOADS/Ethernal-Code/out/vs/platform/log/common/log.js (99)
+[28080:0623/171137.884:INFO:CONSOLE:99] "%c WARN color: #993 Attempted to report in-progress status for unknown chat session type 'agent-host-copilotcli'", source: vscode-file://vscode-app/x:/DOWNLOADS/Ethernal-Code/out/vs/platform/log/common/log.js (99)
+=== code.bat EXITCODE=0 ===

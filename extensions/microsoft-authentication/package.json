@@ -12,7 +12,9 @@
   "categories": [
     "Other"
   ],
-  "activationEvents": [],
+  "activationEvents": [
+    "*"
+  ],
   "enabledApiProposals": [
     "nativeWindowHandle",
     "authIssuers",
@@ -107,7 +109,7 @@
         "properties": {
           "microsoft-authentication.implementation": {
             "type": "string",
-            "default": "msal",
+            "default": "msal-no-broker",
             "enum": [
               "msal",
               "msal-no-broker"

@@ -40,7 +40,7 @@ suite('ScopeData', () => {
 
 	test('should use the default client ID if no VSCODE_CLIENT_ID scope is present', () => {
 		const scopeData = new ScopeData(['custom_scope']);
-		assert.strictEqual(scopeData.clientId, 'aebc6443-996d-45c2-90f0-388ff96faa56');
+		assert.strictEqual(scopeData.clientId, '93d5e028-7fcd-4da7-8a96-55d753a865df');
 	});
 
 	test('should use the VSCODE_CLIENT_ID scope if present', () => {
@@ -121,10 +121,10 @@ suite('ScopeData', () => {
 
 	test('should ignore empty or whitespace-only clientId and fall back to default', () => {
 		const empty = new ScopeData(['custom_scope'], undefined, undefined, '');
-		assert.strictEqual(empty.clientId, 'aebc6443-996d-45c2-90f0-388ff96faa56');
+		assert.strictEqual(empty.clientId, '93d5e028-7fcd-4da7-8a96-55d753a865df');
 
 		const whitespace = new ScopeData(['custom_scope'], undefined, undefined, '   ');
-		assert.strictEqual(whitespace.clientId, 'aebc6443-996d-45c2-90f0-388ff96faa56');
+		assert.strictEqual(whitespace.clientId, '93d5e028-7fcd-4da7-8a96-55d753a865df');
 	});
 
 	test('should ignore empty clientId and fall back to VSCODE_CLIENT_ID scope', () => {

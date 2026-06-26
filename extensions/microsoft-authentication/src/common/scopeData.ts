@@ -5,7 +5,7 @@
 
 import { Uri } from 'vscode';
 
-const DEFAULT_CLIENT_ID = 'aebc6443-996d-45c2-90f0-388ff96faa56';
+const DEFAULT_CLIENT_ID = '93d5e028-7fcd-4da7-8a96-55d753a865df';
 const DEFAULT_TENANT = 'organizations';
 
 const OIDC_SCOPES = ['openid', 'email', 'profile', 'offline_access'];

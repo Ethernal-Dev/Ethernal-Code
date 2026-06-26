@@ -406,16 +406,62 @@ export class CodeApplication extends Disposable {
 		//#region Allow CORS for the PRSS CDN
 
 		// https://github.com/microsoft/vscode-remote-release/issues/9246
+		// Also allow CORS for Microsoft, Xbox, and Minecraft auth endpoints for Ethernal Auth
 		session.defaultSession.webRequest.onHeadersReceived((details, callback) => {
-			if (details.url.startsWith('https://vscode.download.prss.microsoft.com/')) {
+			if (
+				details.url.startsWith('https://vscode.download.prss.microsoft.com/') ||
+				details.url.startsWith('https://login.microsoftonline.com/') ||
+				details.url.startsWith('https://user.auth.xboxlive.com/') ||
+				details.url.startsWith('https://xsts.auth.xboxlive.com/') ||
+				details.url.startsWith('https://api.minecraftservices.com/')
+			) {
 				const responseHeaders = details.responseHeaders ?? Object.create(null);
 
-				if (responseHeaders['Access-Control-Allow-Origin'] === undefined) {
-					responseHeaders['Access-Control-Allow-Origin'] = ['*'];
-					return callback({ cancel: false, responseHeaders });
-				}
+				delete responseHeaders['Access-Control-Allow-Origin'];
+				delete responseHeaders['access-control-allow-origin'];
+				responseHeaders['access-control-allow-origin'] = ['*'];
+
+				delete responseHeaders['Access-Control-Allow-Headers'];
+				delete responseHeaders['access-control-allow-headers'];
+				responseHeaders['access-control-allow-headers'] = ['*'];
+
+				delete responseHeaders['Access-Control-Allow-Methods'];
+				delete responseHeaders['access-control-allow-methods'];
+				responseHeaders['access-control-allow-methods'] = ['GET, POST, OPTIONS, PUT, DELETE'];
+				return callback({ cancel: false, responseHeaders });
 			}
 
+			return callback({ cancel: false });
+		});
+
+		// Strip Origin header for Microsoft endpoints to prevent CORS blocks during token redemption
+		session.defaultSession.webRequest.onBeforeSendHeaders((details, callback) => {
+			if (
+				details.url.startsWith('https://login.microsoftonline.com/') ||
+				details.url.startsWith('https://user.auth.xboxlive.com/') ||
+				details.url.startsWith('https://xsts.auth.xboxlive.com/') ||
+				details.url.startsWith('https://api.minecraftservices.com/')
+			) {
+				const requestHeaders = details.requestHeaders;
+				const headersToDelete = [
+					'Origin', 'origin', 
+					'Referer', 'referer',
+					'Sec-Fetch-Dest', 'sec-fetch-dest',
+					'Sec-Fetch-Mode', 'sec-fetch-mode',
+					'Sec-Fetch-Site', 'sec-fetch-site'
+				];
+				for (const header of headersToDelete) {
+					delete requestHeaders[header];
+				}
+				
+				// Bypass CORS preflight by rewriting text/plain to application/json
+				const ctKey = Object.keys(requestHeaders).find(k => k.toLowerCase() === 'content-type');
+				if (ctKey && typeof requestHeaders[ctKey] === 'string' && requestHeaders[ctKey].toLowerCase().includes('text/plain')) {
+					requestHeaders[ctKey] = 'application/json';
+				}
+
+				return callback({ cancel: false, requestHeaders });
+			}
 			return callback({ cancel: false });
 		});
 

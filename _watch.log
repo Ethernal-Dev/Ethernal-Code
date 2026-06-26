@@ -1,0 +1,376 @@
+npm warn Unknown project config "disturl". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+npm warn Unknown project config "target". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+npm warn Unknown project config "ms_build_id". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+npm warn Unknown project config "runtime". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+npm warn Unknown project config "build_from_source". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+npm warn Unknown project config "timeout". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+
+> code-oss-dev@1.127.0 watch
+> npm-run-all2 -lp watch-client-transpile watch-client watch-extensions watch-copilot
+
+[watch-client-transpile] npm warn Unknown env config "build-from-source". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-client-transpile] npm warn Unknown env config "disturl". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-client-transpile] npm warn Unknown env config "ms-build-id". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-client-transpile] npm warn Unknown env config "runtime". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-client-transpile] npm warn Unknown env config "target". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-client-transpile] npm warn Unknown env config "timeout". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-client-transpile] npm warn Unknown project config "disturl". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-client-transpile] npm warn Unknown project config "target". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-client-transpile] npm warn Unknown project config "ms_build_id". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-client-transpile] npm warn Unknown project config "runtime". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-client-transpile] npm warn Unknown project config "build_from_source". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-client-transpile] npm warn Unknown project config "timeout". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-client          ] npm warn Unknown env config "build-from-source". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-client          ] npm warn Unknown env config "disturl". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-client          ] npm warn Unknown env config "ms-build-id". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-client          ] npm warn Unknown env config "runtime". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-client          ] npm warn Unknown env config "target". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-client          ] npm warn Unknown env config "timeout". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-client          ] npm warn Unknown project config "disturl". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-client          ] npm warn Unknown project config "target". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-client          ] npm warn Unknown project config "ms_build_id". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-client          ] npm warn Unknown project config "runtime". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-client          ] npm warn Unknown project config "build_from_source". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-client          ] npm warn Unknown project config "timeout". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-extensions      ] npm warn Unknown env config "build-from-source". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-extensions      ] npm warn Unknown env config "disturl". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-extensions      ] npm warn Unknown env config "ms-build-id". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-extensions      ] npm warn Unknown env config "runtime". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-extensions      ] npm warn Unknown env config "target". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-extensions      ] npm warn Unknown env config "timeout". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-extensions      ] npm warn Unknown project config "disturl". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-extensions      ] npm warn Unknown project config "target". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-extensions      ] npm warn Unknown project config "ms_build_id". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-extensions      ] npm warn Unknown project config "runtime". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-extensions      ] npm warn Unknown project config "build_from_source". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-extensions      ] npm warn Unknown project config "timeout". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] npm warn Unknown env config "build-from-source". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] npm warn Unknown env config "disturl". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] npm warn Unknown env config "ms-build-id". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] npm warn Unknown env config "runtime". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] npm warn Unknown env config "target". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] npm warn Unknown env config "timeout". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] npm warn Unknown project config "disturl". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] npm warn Unknown project config "target". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] npm warn Unknown project config "ms_build_id". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] npm warn Unknown project config "runtime". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] npm warn Unknown project config "build_from_source". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] npm warn Unknown project config "timeout". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-client-transpile] 
+[watch-client-transpile] > code-oss-dev@1.127.0 watch-client-transpile
+[watch-client-transpile] > node build/next/index.ts transpile --watch
+[watch-client-transpile] 
+[watch-client          ] 
+[watch-client          ] > code-oss-dev@1.127.0 watch-client
+[watch-client          ] > npm run gulp watch-client
+[watch-client          ] 
+[watch-extensions      ] 
+[watch-extensions      ] > code-oss-dev@1.127.0 watch-extensions
+[watch-extensions      ] > npm run gulp watch-extensions watch-extension-media
+[watch-extensions      ] 
+[watch-copilot         ] 
+[watch-copilot         ] > code-oss-dev@1.127.0 watch-copilot
+[watch-copilot         ] > npm --prefix extensions/copilot run watch
+[watch-copilot         ] 
+[watch-client          ] npm warn Unknown env config "build-from-source". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-client          ] npm warn Unknown env config "disturl". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-client          ] npm warn Unknown env config "ms-build-id". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-client          ] npm warn Unknown env config "runtime". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-client          ] npm warn Unknown env config "target". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-client          ] npm warn Unknown env config "timeout". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-client          ] npm warn Unknown project config "disturl". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-client          ] npm warn Unknown project config "target". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-client          ] npm warn Unknown project config "ms_build_id". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-client          ] npm warn Unknown project config "runtime". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-client          ] npm warn Unknown project config "build_from_source". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-client          ] npm warn Unknown project config "timeout". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] npm warn Unknown env config "build-from-source". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-extensions      ] npm warn Unknown env config "build-from-source". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] npm warn Unknown env config "disturl". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] npm warn Unknown env config "ms-build-id". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] npm warn Unknown env config "runtime". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] npm warn Unknown env config "target". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] npm warn Unknown env config "timeout". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] npm warn Unknown project config "timeout". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-extensions      ] npm warn Unknown env config "disturl". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-extensions      ] npm warn Unknown env config "ms-build-id". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-extensions      ] npm warn Unknown env config "runtime". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-extensions      ] npm warn Unknown env config "target". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-extensions      ] npm warn Unknown env config "timeout". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-extensions      ] npm warn Unknown project config "disturl". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-extensions      ] npm warn Unknown project config "target". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-extensions      ] npm warn Unknown project config "ms_build_id". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-extensions      ] npm warn Unknown project config "runtime". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-extensions      ] npm warn Unknown project config "build_from_source". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-extensions      ] npm warn Unknown project config "timeout". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-client          ] 
+[watch-client          ] > code-oss-dev@1.127.0 gulp
+[watch-client          ] > node --experimental-strip-types --max-old-space-size=8192 ./node_modules/gulp/bin/gulp.js watch-client
+[watch-client          ] 
+[watch-extensions      ] 
+[watch-extensions      ] > code-oss-dev@1.127.0 gulp
+[watch-extensions      ] > node --experimental-strip-types --max-old-space-size=8192 ./node_modules/gulp/bin/gulp.js watch-extensions watch-extension-media
+[watch-extensions      ] 
+[watch-copilot         ] 
+[watch-copilot         ] > copilot-chat@0.55.0 watch
+[watch-copilot         ] > npm-run-all -lp watch:esbuild watch:typecheck
+[watch-copilot         ] 
+[watch-copilot         ] [watch:esbuild  ] npm warn Unknown env config "build-from-source". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] [watch:esbuild  ] npm warn Unknown env config "disturl". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] [watch:esbuild  ] npm warn Unknown env config "ms-build-id". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] [watch:esbuild  ] npm warn Unknown env config "runtime". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] [watch:esbuild  ] npm warn Unknown env config "target". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] [watch:esbuild  ] npm warn Unknown env config "timeout". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] [watch:esbuild  ] npm warn Unknown project config "timeout". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] [watch:typecheck] npm warn Unknown env config "build-from-source". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] [watch:typecheck] npm warn Unknown env config "disturl". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] [watch:typecheck] npm warn Unknown env config "ms-build-id". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] [watch:typecheck] npm warn Unknown env config "runtime". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] [watch:typecheck] npm warn Unknown env config "target". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] [watch:typecheck] npm warn Unknown env config "timeout". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] [watch:typecheck] npm warn Unknown project config "timeout". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] [watch:esbuild  ] 
+[watch-copilot         ] [watch:esbuild  ] > copilot-chat@0.55.0 watch:esbuild
+[watch-copilot         ] [watch:esbuild  ] > node .esbuild.mts --watch --dev
+[watch-copilot         ] [watch:esbuild  ] 
+[watch-copilot         ] [watch:typecheck] 
+[watch-copilot         ] [watch:typecheck] > copilot-chat@0.55.0 watch:typecheck
+[watch-copilot         ] [watch:typecheck] > npx tsgo --noEmit --watch --preserveWatchOutput --project tsconfig.json
+[watch-copilot         ] [watch:typecheck] 
+[watch-copilot         ] [watch:esbuild  ] [watch] build started
+[watch-client-transpile] Starting transpilation...
+[watch-client-transpile] [clean] out
+[watch-copilot         ] [watch:typecheck] npm warn Unknown env config "build-from-source". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] [watch:typecheck] npm warn Unknown env config "disturl". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] [watch:typecheck] npm warn Unknown env config "ms-build-id". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] [watch:typecheck] npm warn Unknown env config "runtime". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] [watch:typecheck] npm warn Unknown env config "target". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] [watch:typecheck] npm warn Unknown env config "timeout". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] [watch:typecheck] npm warn Unknown project config "timeout". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+[watch-copilot         ] [watch:typecheck] 05:29:46 PM - Starting compilation in watch mode...
+[watch-copilot         ] [watch:typecheck] 
+[watch-client-transpile] [transpile] src → out
+[watch-client-transpile] [transpile] Found 7074 files
+[watch-copilot         ] [watch:esbuild  ] [watch] build finished
+[watch-extensions      ] [[90m17:29:51[39m] 
+[watch-client          ] [[90m17:29:51[39m] 
+[watch-extensions      ] Using gulpfile X:\DOWNLOADS\Ethernal-Code\gulpfile.mjs
+[watch-client          ] Using gulpfile X:\DOWNLOADS\Ethernal-Code\gulpfile.mjs
+[watch-extensions      ] [[90m17:29:51[39m] Starting 'watch-extensions'...
+[watch-client          ] [[90m17:29:51[39m] Starting 'watch-client'...
+[watch-extensions      ] [[90m17:29:51[39m] Starting 'watch-extension-media'...
+[watch-extensions      ] [[90m17:29:51[39m] 
+[watch-client          ] [[90m17:29:51[39m] Starting [36mwatch-typecheck-src[39m ...
+[watch-extensions      ] Starting [36mclean-extension-configuration-editing[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-css-language-features-client[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-css-language-features-server[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-debug-auto-launch[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-debug-server-ready[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-emmet[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-extension-editing[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-git[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-git-base[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-github[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-github-authentication[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-grunt[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-gulp[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-html-language-features-client[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-html-language-features-server[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-ipynb[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-jake[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-json-language-features-client[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-json-language-features-server[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-markdown-language-features[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-markdown-math[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-media-preview[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-merge-conflict[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-mermaid-markdown-features[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-terminal-suggest[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-microsoft-authentication[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-notebook-renderers[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-npm[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-php-language-features[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-references-view[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-search-result[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-simple-browser[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-tunnel-forwarding[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-typescript-language-features-web[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-typescript-language-features[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-vscode-api-tests[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-vscode-colorize-tests[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-vscode-colorize-perf-tests[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-vscode-test-resolver[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-vscode-selfhost-test-provider[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-vscode-selfhost-import-aid[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-vscode-extras[39m ...
+[watch-extensions      ] [[90m17:29:51[39m] Starting [36mclean-extension-vscode-pr-pinger[39m ...
+[watch-extensions      ] (node:34224) [DEP0190] DeprecationWarning: Passing args to a child process with shell option true can lead to security vulnerabilities, as the arguments are not escaped, only concatenated.
+[watch-extensions      ] (Use `node --trace-deprecation ...` to show where the warning was created)
+[watch-extensions      ] [[90m17:29:52[39m] Finished [36mclean-extension-debug-auto-launch[39m after [35m261 ms[39m
+[watch-extensions      ] [[90m17:29:52[39m] Starting [36mwatch-extension:debug-auto-launch[39m ...
+[watch-extensions      ] [[90m17:29:52[39m] Starting compilation
+[watch-extensions      ] [[90m17:29:52[39m] Finished [36mclean-extension-extension-editing[39m after [35m282 ms[39m
+[watch-extensions      ] [[90m17:29:52[39m] Starting [36mwatch-extension:extension-editing[39m ...
+[watch-extensions      ] [[90m17:29:52[39m] Finished [36mclean-extension-debug-server-ready[39m after [35m294 ms[39m
+[watch-extensions      ] [[90m17:29:52[39m] Starting [36mwatch-extension:debug-server-ready[39m ...
+[watch-extensions      ] [[90m17:29:52[39m] Finished [36mclean-extension-grunt[39m after [35m320 ms[39m
+[watch-extensions      ] [[90m17:29:52[39m] Starting [36mwatch-extension:grunt[39m ...
+[watch-extensions      ] [[90m17:29:52[39m] Finished [36mclean-extension-gulp[39m after [35m329 ms[39m
+[watch-extensions      ] [[90m17:29:52[39m] Starting [36mwatch-extension:gulp[39m ...
+[watch-extensions      ] [[90m17:29:52[39m] Finished [36mclean-extension-jake[39m after [35m343 ms[39m
+[watch-extensions      ] [[90m17:29:52[39m] Starting [36mwatch-extension:jake[39m ...
+[watch-extensions      ] [[90m17:29:52[39m] Finished [36mclean-extension-markdown-math[39m after [35m358 ms[39m
+[watch-extensions      ] [[90m17:29:52[39m] Starting [36mwatch-extension:markdown-math[39m ...
+[watch-extensions      ] [[90m17:29:52[39m] Finished [36mclean-extension-merge-conflict[39m after [35m371 ms[39m
+[watch-extensions      ] [[90m17:29:52[39m] Starting [36mwatch-extension:merge-conflict[39m ...
+[watch-extensions      ] [[90m17:29:52[39m] Finished [36mclean-extension-simple-browser[39m after [35m385 ms[39m
+[watch-extensions      ] [[90m17:29:52[39m] Starting [36mwatch-extension:simple-browser[39m ...
+[watch-extensions      ] [[90m17:29:52[39m] Finished [36mclean-extension-tunnel-forwarding[39m after [35m397 ms[39m
+[watch-extensions      ] [[90m17:29:52[39m] Starting [36mwatch-extension:tunnel-forwarding[39m ...
+[watch-extensions      ] [[90m17:29:52[39m] Finished [36mclean-extension-typescript-language-features-web[39m after [35m410 ms[39m
+[watch-extensions      ] [[90m17:29:52[39m] Starting [36mwatch-extension:typescript-language-features-web[39m ...
+[watch-extensions      ] [[90m17:29:52[39m] Finished [36mclean-extension-vscode-colorize-perf-tests[39m after [35m429 ms[39m
+[watch-extensions      ] [[90m17:29:52[39m] Starting [36mwatch-extension:vscode-colorize-perf-tests[39m ...
+[watch-extensions      ] [[90m17:29:52[39m] Finished [36mclean-extension-vscode-colorize-tests[39m after [35m448 ms[39m
+[watch-extensions      ] [[90m17:29:52[39m] Starting [36mwatch-extension:vscode-colorize-tests[39m ...
+[watch-extensions      ] [[90m17:29:52[39m] Finished [36mclean-extension-vscode-selfhost-import-aid[39m after [35m465 ms[39m
+[watch-extensions      ] [[90m17:29:52[39m] Starting [36mwatch-extension:vscode-selfhost-import-aid[39m ...
+[watch-extensions      ] [[90m17:29:52[39m] Finished [36mclean-extension-vscode-selfhost-test-provider[39m after [35m478 ms[39m
+[watch-extensions      ] [[90m17:29:52[39m] Starting [36mwatch-extension:vscode-selfhost-test-provider[39m ...
+[watch-extensions      ] [[90m17:29:52[39m] Finished [36mclean-extension-vscode-pr-pinger[39m after [35m506 ms[39m
+[watch-extensions      ] [[90m17:29:52[39m] Starting [36mwatch-extension:vscode-pr-pinger[39m ...
+[watch-extensions      ] [[90m17:29:52[39m] Finished [36mclean-extension-vscode-extras[39m after [35m526 ms[39m
+[watch-extensions      ] [[90m17:29:52[39m] Starting [36mwatch-extension:vscode-extras[39m ...
+[watch-client-transpile] [resources] Copying all non-TS files to out...
+[watch-extensions      ] [[90m17:29:52[39m] Finished [36mclean-extension-configuration-editing[39m after [35m997 ms[39m
+[watch-extensions      ] [[90m17:29:52[39m] Starting [36mwatch-extension:configuration-editing[39m ...
+[watch-extensions      ] [[90m17:29:52[39m] Finished [36mclean-extension-css-language-features-client[39m after [35m1018 ms[39m
+[watch-extensions      ] [[90m17:29:52[39m] Starting [36mwatch-extension:css-language-features-client[39m ...
+[watch-extensions      ] [[90m17:29:52[39m] Finished [36mclean-extension-css-language-features-server[39m after [35m1069 ms[39m
+[watch-extensions      ] [[90m17:29:52[39m] Starting [36mwatch-extension:css-language-features-server[39m ...
+[watch-extensions      ] [[90m17:29:52[39m] Finished [36mclean-extension-emmet[39m after [35m1123 ms[39m
+[watch-extensions      ] [[90m17:29:52[39m] Starting [36mwatch-extension:emmet[39m ...
+[watch-extensions      ] [[90m17:29:52[39m] Finished [36mclean-extension-git[39m after [35m1153 ms[39m
+[watch-extensions      ] [[90m17:29:52[39m] Starting [36mwatch-extension:git[39m ...
+[watch-extensions      ] [[90m17:29:52[39m] Finished [36mclean-extension-git-base[39m after [35m1177 ms[39m
+[watch-extensions      ] [[90m17:29:52[39m] Starting [36mwatch-extension:git-base[39m ...
+[watch-extensions      ] [[90m17:29:52[39m] Finished [36mclean-extension-github[39m after [35m1216 ms[39m
+[watch-extensions      ] [[90m17:29:52[39m] Starting [36mwatch-extension:github[39m ...
+[watch-extensions      ] [[90m17:29:53[39m] Finished [36mclean-extension-html-language-features-client[39m after [35m1247 ms[39m
+[watch-extensions      ] [[90m17:29:53[39m] Starting [36mwatch-extension:html-language-features-client[39m ...
+[watch-extensions      ] [[90m17:29:53[39m] Finished [36mclean-extension-ipynb[39m after [35m1272 ms[39m
+[watch-extensions      ] [[90m17:29:53[39m] Starting [36mwatch-extension:ipynb[39m ...
+[watch-extensions      ] [[90m17:29:53[39m] Finished [36mclean-extension-json-language-features-server[39m after [35m1294 ms[39m
+[watch-extensions      ] [[90m17:29:53[39m] Starting [36mwatch-extension:json-language-features-server[39m ...
+[watch-extensions      ] [[90m17:29:53[39m] Finished [36mclean-extension-json-language-features-client[39m after [35m1314 ms[39m
+[watch-extensions      ] [[90m17:29:53[39m] Starting [36mwatch-extension:json-language-features-client[39m ...
+[watch-extensions      ] [[90m17:29:53[39m] Finished [36mclean-extension-media-preview[39m after [35m1338 ms[39m
+[watch-extensions      ] [[90m17:29:53[39m] Starting [36mwatch-extension:media-preview[39m ...
+[watch-extensions      ] [[90m17:29:53[39m] Finished [36mclean-extension-mermaid-markdown-features[39m after [35m1365 ms[39m
+[watch-extensions      ] [[90m17:29:53[39m] Starting [36mwatch-extension:mermaid-markdown-features[39m ...
+[watch-extensions      ] [[90m17:29:53[39m] Finished [36mclean-extension-notebook-renderers[39m after [35m1463 ms[39m
+[watch-extensions      ] [[90m17:29:53[39m] Starting [36mwatch-extension:notebook-renderers[39m ...
+[watch-extensions      ] [[90m17:29:53[39m] Finished [36mclean-extension-search-result[39m after [35m1485 ms[39m
+[watch-extensions      ] [[90m17:29:53[39m] Starting [36mwatch-extension:search-result[39m ...
+[watch-extensions      ] [[90m17:29:53[39m] Finished [36mclean-extension-npm[39m after [35m1517 ms[39m
+[watch-extensions      ] [[90m17:29:53[39m] Starting [36mwatch-extension:npm[39m ...
+[watch-extensions      ] [[90m17:29:53[39m] Finished [36mclean-extension-references-view[39m after [35m1543 ms[39m
+[watch-extensions      ] [[90m17:29:53[39m] Starting [36mwatch-extension:references-view[39m ...
+[watch-extensions      ] [[90m17:29:53[39m] Finished [36mclean-extension-vscode-api-tests[39m after [35m1576 ms[39m
+[watch-extensions      ] [[90m17:29:53[39m] Starting [36mwatch-extension:vscode-api-tests[39m ...
+[watch-extensions      ] [[90m17:29:53[39m] Finished [36mclean-extension-vscode-test-resolver[39m after [35m1604 ms[39m
+[watch-extensions      ] [[90m17:29:53[39m] Starting [36mwatch-extension:vscode-test-resolver[39m ...
+[watch-extensions      ] [[90m17:29:53[39m] Finished [36mclean-extension-github-authentication[39m after [35m1797 ms[39m
+[watch-extensions      ] [[90m17:29:53[39m] Starting [36mwatch-extension:github-authentication[39m ...
+[watch-extensions      ] [[90m17:29:53[39m] Finished [36mclean-extension-markdown-language-features[39m after [35m1849 ms[39m
+[watch-extensions      ] [[90m17:29:53[39m] Starting [36mwatch-extension:markdown-language-features[39m ...
+[watch-extensions      ] [[90m17:29:53[39m] Finished [36mclean-extension-microsoft-authentication[39m after [35m1881 ms[39m
+[watch-extensions      ] [[90m17:29:53[39m] Starting [36mwatch-extension:microsoft-authentication[39m ...
+[watch-extensions      ] [[90m17:29:53[39m] Finished [36mclean-extension-php-language-features[39m after [35m1909 ms[39m
+[watch-extensions      ] [[90m17:29:53[39m] Starting [36mwatch-extension:php-language-features[39m ...
+[watch-extensions      ] [[90m17:29:53[39m] Finished [36mclean-extension-typescript-language-features[39m after [35m1936 ms[39m
+[watch-extensions      ] [[90m17:29:53[39m] Starting [36mwatch-extension:typescript-language-features[39m ...
+[watch-extensions      ] [[90m17:29:53[39m] Finished [36mclean-extension-terminal-suggest[39m after [35m2105 ms[39m
+[watch-extensions      ] [[90m17:29:53[39m] Starting [36mwatch-extension:terminal-suggest[39m ...
+[watch-extensions      ] (node:34224) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 101 end listeners added to [Stream]. MaxListeners is 100. Use emitter.setMaxListeners() to increase limit
+[watch-extensions      ] [[90m17:29:54[39m] Finished [36mclean-extension-html-language-features-server[39m after [35m2243 ms[39m
+[watch-extensions      ] [[90m17:29:54[39m] Starting [36mwatch-extension:html-language-features-server[39m ...
+[watch-extensions      ] (node:34224) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 101 close listeners added to [Stream]. MaxListeners is 100. Use emitter.setMaxListeners() to increase limit
+[watch-copilot         ] [watch:typecheck] 05:29:56 PM - Found 0 errors. Watching for file changes.
+[watch-copilot         ] [watch:typecheck] 
+[watch-client-transpile] [resources] Copied 1350 files
+[watch-client-transpile] Finished transpilation with 0 errors after 10059 ms
+[watch-client-transpile] [watch] Watching src/**/*.{ts,css,...} (Ctrl+C to stop)
+[watch-extensions      ] [[90m17:30:03[39m] Finished [32mtypechecking extension media (tsgo)[39m X:\DOWNLOADS\Ethernal-Code\extensions\markdown-language-features\preview-src\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:03[39m] Finished [32mtypechecking extension media (tsgo)[39m X:\DOWNLOADS\Ethernal-Code\extensions\markdown-language-features\notebook\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:03[39m] Finished [32mtypechecking extension media (tsgo)[39m X:\DOWNLOADS\Ethernal-Code\extensions\markdown-math\notebook\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:03[39m] Finished [32mtypechecking extension media (tsgo)[39m X:\DOWNLOADS\Ethernal-Code\extensions\ipynb\notebook-src\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:03[39m] Finished [32mtypechecking extension media (tsgo)[39m X:\DOWNLOADS\Ethernal-Code\extensions\markdown-language-features\markdown-editor-src\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:03[39m] Finished [32mtypechecking extension media (tsgo)[39m X:\DOWNLOADS\Ethernal-Code\extensions\simple-browser\preview-src\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:03[39m] Finished [32mtypechecking extension media (tsgo)[39m X:\DOWNLOADS\Ethernal-Code\extensions\notebook-renderers\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:03[39m] Finished [32mtypechecking extension media (tsgo)[39m X:\DOWNLOADS\Ethernal-Code\extensions\mermaid-markdown-features\preview-src\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:03[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\debug-auto-launch\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:03[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\debug-server-ready\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:04[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\markdown-math\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:04[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\extension-editing\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:04[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\jake\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:04[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\grunt\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:04[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\gulp\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:04[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\tunnel-forwarding\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:04[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\merge-conflict\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:04[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\simple-browser\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:04[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\typescript-language-features\web\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:05[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\vscode-colorize-perf-tests\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:05[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\vscode-colorize-tests\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:05[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\.vscode\extensions\vscode-selfhost-import-aid\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:05[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\.vscode\extensions\vscode-extras\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:05[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\.vscode\extensions\vscode-selfhost-test-provider\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:05[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\.vscode\extensions\vscode-pr-pinger\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:05[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\git-base\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:05[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\css-language-features\client\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:05[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\emmet\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:05[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\css-language-features\server\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:06[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\github\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:06[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\html-language-features\client\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:06[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\json-language-features\client\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:06[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\configuration-editing\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:06[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\mermaid-markdown-features\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:06[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\media-preview\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:06[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\json-language-features\server\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:06[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\git\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:06[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\ipynb\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:06[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\npm\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:06[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\notebook-renderers\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:06[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\vscode-test-resolver\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:06[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\references-view\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:06[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\search-result\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:07[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\vscode-api-tests\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:07[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\github-authentication\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:07[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\microsoft-authentication\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:07[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\php-language-features\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:07[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\markdown-language-features\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:07[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\typescript-language-features\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:07[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\html-language-features\server\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:07[39m] Finished [32mextensions[39m X:\DOWNLOADS\Ethernal-Code\extensions\terminal-suggest\tsconfig.json with 0 errors.
+[watch-extensions      ] [[90m17:30:07[39m] Finished compilation
+[watch-client          ] [[90m17:30:08[39m] Starting [32mcompilation[39m...
+[watch-client          ] [[90m17:30:08[39m] Starting [36mwatch-api-proposal-names[39m ...
+[watch-client          ] [[90m17:30:08[39m] Starting [32mcompilation[39m[34m api-proposal-names[39m...
+[watch-client          ] [[90m17:30:08[39m] Starting [36mwatch-extension-point-names[39m ...
+[watch-client          ] [[90m17:30:08[39m] Starting [32mcompilation[39m[34m extension-point-names[39m...
+[watch-client          ] [[90m17:30:08[39m] Starting [36mwatch-codicons[39m ...
+[watch-client          ] (node:30116) [DEP0190] DeprecationWarning: Passing args to a child process with shell option true can lead to security vulnerabilities, as the arguments are not escaped, only concatenated.
+[watch-client          ] (Use `node --trace-deprecation ...` to show where the warning was created)
+[watch-client-transpile] Starting transpilation...
+[watch-client-transpile] [watch] Copied vs\base\browser\ui\codicons\codicon\codicon.ttf
+[watch-client-transpile] Finished transpilation with 0 errors after 1 ms
+[watch-client          ] [[90m17:30:08[39m] Finished [32mcompilation[39m[34m api-proposal-names[39m with 0 errors after [35m325 ms[39m
+[watch-client          ] [[90m17:30:09[39m] Finished [32mcompilation[39m[34m extension-point-names[39m with 0 errors after [35m1213 ms[39m
+[watch-client          ] [[90m17:30:18[39m] Finished [32mwatch-client-noEmit[39m X:\DOWNLOADS\Ethernal-Code\src\tsconfig.json with 0 errors.
+[watch-client          ] [[90m17:30:18[39m] Finished [32mcompilation[39m with 0 errors after [35m10558 ms[39m
+[watch-client-transpile] Starting transpilation...
+[watch-client-transpile] [watch] Copied vs\workbench\browser\media\code-icon.svg
+[watch-client-transpile] Finished transpilation with 0 errors after 1 ms
+[watch-client          ] [[90m17:50:37[39m] Starting [32mcompilation[39m...
+[watch-client          ] [[90m17:50:40[39m] Finished [32mwatch-client-noEmit[39m X:\DOWNLOADS\Ethernal-Code\src\tsconfig.json with 0 errors.
+[watch-client          ] [[90m17:50:40[39m] Finished [32mcompilation[39m with 0 errors after [35m3786 ms[39m
